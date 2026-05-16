@@ -1,0 +1,20 @@
+# Tethys Greece UI — dependencies
+# pip install -r requirements.txt
+
+# LLM (free)
+groq>=0.9.0
+
+# MCP
+mcp>=1.0.0
+
+# ERA5 data (same as ERMES)
+cdsapi>=0.7.0
+xarray>=2024.1.0
+numpy>=1.26.0
+pandas>=2.2.0
+scipy>=1.13.0
+netCDF4>=1.6.0
+
+# Web server (UI)
+fastapi>=0.111.0
+uvicorn>=0.30.0
