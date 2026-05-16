@@ -42,7 +42,7 @@ Data availability: **1940–present** (ERA5).
 ### 1. Clone & create environment
 
 ```bash
-git clone https://github.com/your-username/Tethys
+git clone https://github.com/mixstam1821/Tethys
 cd Tethys
 python -m venv .venv
 ```
