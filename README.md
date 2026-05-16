@@ -26,6 +26,8 @@ A conversational climate-science assistant inspired by [ERMES](https://github.co
 - **100% free APIs** — Groq (Llama 3.3 70B) + Copernicus CDS (ERA5) are both free-tier.
 
 ---
+![Image 1](Screenshot_20260516_094515.png)
+![Image 2](Screenshot_20260516_094445.png)
 
 ## 🗺️ Coverage
 
